@@ -1,0 +1,941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"dif"
+			],
+			[
+				"exp",
+				"exponente"
+			],
+			[
+				"ep",
+				"exponente"
+			],
+			[
+				"de",
+				"derivado"
+			],
+			[
+				"ex",
+				"exponente"
+			],
+			[
+				"NUmer",
+				"Number"
+			],
+			[
+				"Re",
+				"Remove"
+			],
+			[
+				"Get",
+				"GetExpresions"
+			],
+			[
+				"num",
+				"numero"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"Remo",
+				"RemoveAll"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"MUlt",
+				"Multiplicar"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"N",
+				"Number"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"co",
+				"contenido"
+			],
+			[
+				"fact",
+				"factoresDistribuidos"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Ge",
+				"GetString"
+			],
+			[
+				"expre",
+				"expresiones"
+			],
+			[
+				"ar",
+				"arg"
+			],
+			[
+				"number",
+				"Number"
+			],
+			[
+				"rem",
+				"Remove"
+			],
+			[
+				"splice",
+				"splice1"
+			],
+			[
+				"nume",
+				"numero"
+			],
+			[
+				"buscar",
+				"buscar-1"
+			],
+			[
+				"EX",
+				"exp"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"expo",
+				"exponente"
+			],
+			[
+				"spl",
+				"splice2"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"spli",
+				"splice2"
+			],
+			[
+				"lis",
+				"lista"
+			],
+			[
+				"li",
+				"lista"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"GetNU",
+				"GetNumbersNotExp"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"lenth",
+				"length"
+			],
+			[
+				"fa",
+				"factoresDistribuidos"
+			],
+			[
+				"length",
+				"length"
+			],
+			[
+				"strcp",
+				"strcmp"
+			],
+			[
+				"PA",
+				"PATH"
+			],
+			[
+				"select",
+				"selector"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"pr",
+				"pronombre"
+			],
+			[
+				"pre",
+				"preposicione"
+			],
+			[
+				"SN",
+				"SINTAXIS"
+			],
+			[
+				"b",
+				"bind_to_port"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"In",
+				"Interjecciones"
+			],
+			[
+				"Busca",
+				"Buscando"
+			],
+			[
+				"p",
+				"printf\tprintf …"
+			],
+			[
+				"pala",
+				"palabra"
+			],
+			[
+				"sal",
+				"salir2"
+			],
+			[
+				"Busc",
+				"Buscando"
+			],
+			[
+				"wor",
+				"words_len"
+			],
+			[
+				"inicia",
+				"nIniciando"
+			],
+			[
+				"words",
+				"words_len"
+			],
+			[
+				"word",
+				"words_len"
+			],
+			[
+				"strc",
+				"strcat"
+			],
+			[
+				"Buscar",
+				"BuscarVerbo"
+			],
+			[
+				"salir",
+				"salir"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"l",
+				"linea"
+			],
+			[
+				"A",
+				"ADVER"
+			],
+			[
+				"Paa",
+				"Pasado"
+			],
+			[
+				"tiem",
+				"tiempoV"
+			],
+			[
+				"count",
+				"count_2"
+			],
+			[
+				"pla",
+				"palabra"
+			],
+			[
+				"ca",
+				"categoria"
+			],
+			[
+				"pal",
+				"palabra2"
+			],
+			[
+				"ver",
+				"verbos_1"
+			],
+			[
+				"st",
+				"strchr"
+			],
+			[
+				"op",
+				"opinionOhecho_"
+			],
+			[
+				"Op",
+				"opinionOhecho"
+			],
+			[
+				"fp",
+				"fputs"
+			],
+			[
+				"VE",
+				"VIERNES"
+			],
+			[
+				"wo",
+				"words"
+			],
+			[
+				"Pa",
+				"Palabras"
+			],
+			[
+				"FI",
+				"FILE"
+			],
+			[
+				"exi",
+				"existe"
+			],
+			[
+				"eix",
+				"existe"
+			],
+			[
+				"a",
+				"archivos"
+			],
+			[
+				"ma",
+				"matriz_len"
+			],
+			[
+				"MA",
+				"MATRIZ_OPERADORES"
+			],
+			[
+				"sin",
+				"sintaxis_lo"
+			],
+			[
+				"sl",
+				"salir"
+			],
+			[
+				"sn",
+				"sintaxis_lo"
+			],
+			[
+				"Algotim",
+				"Algoritmo"
+			],
+			[
+				"ME",
+				"Memory"
+			],
+			[
+				"_",
+				"_dia"
+			],
+			[
+				"M",
+				"MAX"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"Inici",
+				"Iniciando"
+			],
+			[
+				"las",
+				"last"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"add",
+				"AddText"
+			],
+			[
+				"au",
+				"Aumentar"
+			],
+			[
+				"sif",
+				"suficiente"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"Ini",
+				"Iniciando"
+			],
+			[
+				"Inica",
+				"nIniciando"
+			],
+			[
+				"es",
+				"estudiar"
+			],
+			[
+				"do",
+				"documento"
+			],
+			[
+				"strat",
+				"strcat"
+			],
+			[
+				"AD",
+				"AddWord"
+			],
+			[
+				"paa",
+				"palabra"
+			],
+			[
+				"lo",
+				"loNew"
+			],
+			[
+				"Pala",
+				"Palabras"
+			],
+			[
+				"prin",
+				"printporc"
+			],
+			[
+				"RE",
+				"RELACIONES"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"reig",
+				"registrar"
+			],
+			[
+				"reg",
+				"registro"
+			],
+			[
+				"R",
+				"REG"
+			],
+			[
+				"P",
+				"Palabras"
+			],
+			[
+				"AI_",
+				"AI_H"
+			],
+			[
+				"AI",
+				"AI1"
+			],
+			[
+				"me",
+				"mensaje"
+			],
+			[
+				"mes",
+				"mensaje_AI"
+			],
+			[
+				"mensa",
+				"mensaje_AI"
+			],
+			[
+				"men",
+				"mensaje"
+			],
+			[
+				"Pr",
+				"printf"
+			],
+			[
+				"mn",
+				"mensaje"
+			],
+			[
+				"mej",
+				"mensaje"
+			],
+			[
+				"FILE",
+				"FILE_USER"
+			],
+			[
+				"arg",
+				"arg"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Math/Math.js",
+		"/F/Math/Angieos.js",
+		"/F/Proyects/AI/AI.c",
+		"/C/Users/Eduardo/Desktop/Nuevo documento de texto.txt",
+		"/C/Users/Eduardo/Documents/Sin Nombre1.cpp",
+		"/C/MinGW/include/stdio.h",
+		"/C/Users/Eduardo/Documents/AI/servidor.c",
+		"/C/Users/Eduardo/Documents/AI/Pruevas.c",
+		"/C/Users/Eduardo/Downloads/Nuevo documento de texto.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/Interjeciones.txt",
+		"/C/Users/Eduardo/Documents/AI/AI.c",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/Pronombres.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/pregunta.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/ADVERBIOS.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/adjetivos.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/SUSTANTIVOS.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/sustantivos.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/SUNTANTIVOS.txt",
+		"/C/Users/Eduardo/Documents/AI/PALABRAS_USER.txt",
+		"/C/Users/Eduardo/Documents/AI/agua",
+		"/C/Users/Eduardo/Documents/AI/SUSTANTIVO_PAIS.txt",
+		"/C/Users/Eduardo/Documents/AI/BACKUP.txt",
+		"/C/Users/Eduardo/Documents/AI/Comparar.c",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/oraciones.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/verbos_1.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/Informacion.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/eliminar_palabras_repetidas.c",
+		"/F/AI/AI.c",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/verbos.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/preposiciones.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/GAMATICA/CONJUNCIONES.txt",
+		"/C/Users/Eduardo/Documents/AI/sound.c",
+		"/C/Users/Eduardo/Documents/AI/registro/LOG.txt",
+		"/C/Users/Eduardo/Documents/AI/oraciones.txt",
+		"/C/Users/Eduardo/Documents/AI/GAMATICA/Interjeciones.txt",
+		"/C/Users/Eduardo/Documents/AI/registro.c",
+		"/C/Users/Eduardo/Documents/AI/operadores-excluidos.txt",
+		"/C/Users/Eduardo/Documents/AI/Propiedades.txt",
+		"/F/Iron Man 1(Yo Gamer)/Iron Man 1(Yo Gamer)/oraciones.txt",
+		"/F/Iron Man 2 (Yo Gamer)/Iron Man 2 (Yo Gamer)/CONTRASEÑA.txt",
+		"/F/Iron Man 3 (Yo Gamer)/Iron Man 3 (Yo Gamer)/CONTRASEÑA.txt",
+		"/F/Iron Man 1(Yo Gamer)/Iron Man 1(Yo Gamer)/CONTRASEÑA.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/m_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/n_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/b_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/v_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/c_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/x_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/z_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/l_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/k_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/j_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/h_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/g_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/f_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/d_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/s_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/p_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/o_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/i_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/u_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/y_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/t_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/r_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/e_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/DB/a_palabras.txt",
+		"/C/Users/Eduardo/Documents/AI/OPERADORES/ejemplo.txt",
+		"/C/Users/Eduardo/Documents/AI/VERBOS/lista.txt",
+		"/C/Users/Eduardo/Documents/AI/ADJETIVOS/lista.txt",
+		"/F/P/AI/ADJETIVOS/lista.txt",
+		"/C/Users/Eduardo/Downloads/cdosys.dll.mui",
+		"/C/Windows/csup.txt",
+		"/C/Users/Eduardo/Pictures/winload.efi.txt",
+		"/C/Users/Eduardo/Documents/AI/FILE_USER.txt",
+		"/C/Users/Eduardo/Documents/jh h/sfuntmpl.c",
+		"/C/Users/Eduardo/Documents/AI/OBJETOS/ADVERBIOS.txt",
+		"/C/Users/Eduardo/Documents/AI/OBJETOS/Pronombres.txt",
+		"/C/Users/Eduardo/Documents/AI/OBJETOS/CONJUNCIONES.txt",
+		"/C/Users/Eduardo/Documents/AI/OBJETOS/Interjeciones",
+		"/C/Users/Eduardo/Documents/AI/OBJETOS/preposiciones",
+		"/C/Users/Eduardo/Documents/AI/OBJETOS/SUNTANTIVOS.txt",
+		"/C/Users/Eduardo/Downloads/festvox/README.txt",
+		"/C/Users/Eduardo/Documents/AI/ADJETIVOS/lista",
+		"/C/Users/Eduardo/Documents/AI/SUSTANTIVOS/lista.txt",
+		"/C/Users/Eduardo/Downloads/sapi.h",
+		"/C/Users/Eduardo/Downloads/Crack/LoqTTS6.dll",
+		"/C/Users/Eduardo/AppData/Local/Temp/Temp1_SoundsCPP.zip/stdafx.cpp",
+		"/C/Users/Eduardo/Documents/primos.c",
+		"/C/Users/Eduardo/Documents/AI/registro.txt",
+		"/C/Users/Eduardo/Documents/N.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/(GP)_NEXT.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/(GP)_LESS.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/es_LESS.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/eres_NEXT.txt",
+		"/C/Users/Eduardo/Documents/AI/OPERADORES/pregunta.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/comiste_LESS.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/FIRST.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/que_NEXT.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/haces_LESS.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/como_LESS.txt",
+		"/C/Users/Eduardo/Documents/AI/OPERADORES/pregunta_2.txt",
+		"/C/Users/Eduardo/Documents/AI/OPERADORES/pregunta_1.txt",
+		"/C/Users/Eduardo/AppData/Local/Temp/Temp1_gtk+-bundle_3.6.4-20130921_win32.zip/gtk+-bundle_3.6.4-20130921_win32.README.txt",
+		"/C/Users/Eduardo/Documents/AI/c++.c",
+		"/C/Users/Eduardo/Documents/AI/Hola_mundo.c",
+		"/C/Users/Eduardo/Documents/AI/DATA/'1.txt",
+		"/F/AI/PALABRAS_USER.txt",
+		"/C/Users/Eduardo/Documents/AI/SINTAXIS/estas_LESS.txt",
+		"/C/Users/Eduardo/Documents/AI/DATA/estas.txt",
+		"/C/Users/Eduardo/Documents/AI/DATA/hola.txt",
+		"/C/Users/Eduardo/Documents/AI/learn.txt",
+		"/C/Users/Eduardo/Documents/AI/AI.exe",
+		"/C/Users/Eduardo/Desktop/Recovered/$ISBF1B1.crypt12",
+		"/C/Users/Eduardo/Documents/AI/IMAGE.txt",
+		"/C/Users/Eduardo/Documents/AI/FASES.txt",
+		"/C/Users/Eduardo/Documents/AI/DATA/como.txt",
+		"/F/Videos/Fisica/mujer-se-viene-regular.3gp",
+		"/F/Games/Plague_Inc_v0.8.6.7/Plague Inc Evolved/VIruz.NFO",
+		"/C/Users/Eduardo/Music/.estrongs/hide2.txt",
+		"/C/Users/Eduardo/Music/WhatsApp/Databases/msgstore.db.crypt12",
+		"/C/Users/Eduardo/Documents/AI/DATA/AI.txt",
+		"/C/Users/Eduardo/Documents/AI/DATA/pala.txt",
+		"/F/Programas/responsivevoice-text-to-speech.1.1.7/responsivevoice-text-to-speech/readme.txt",
+		"/F/Programas/responsivevoice-text-to-speech.1.1.7/responsivevoice-text-to-speech/includes/responsivevoice-includes.php",
+		"/C/Users/Eduardo/Documents/AI/log.txt",
+		"/C/Users/Eduardo/Pictures/Screenshots/Screenshot (72).png",
+		"/C/Users/Eduardo/Documents/AI/FILE_USER.text",
+		"/F/Math/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"exp[x]",
+			"dif",
+			"exp",
+			"alamcen",
+			"this",
+			"console.log",
+			"printf",
+			"GAMATICA",
+			"como",
+			"ah",
+			"printf(\"",
+			"a",
+			"B",
+			"L",
+			"S",
+			"Y",
+			"S",
+			"í",
+			"é",
+			"ñ",
+			"ó",
+			"ú",
+			"M",
+			"diablos",
+			"D",
+			"V",
+			"T",
+			"N",
+			"R",
+			"P",
+			"N",
+			"J",
+			"E",
+			"á",
+			"C",
+			"A",
+			"O",
+			"G",
+			"H",
+			"¡",
+			" (aupar)",
+			" (dolor)",
+			"!",
+			" (burla)",
+			" (orden de parada al caballo)",
+			" (asco)",
+			" (disculpa)",
+			" (admiración)",
+			" (deseo)",
+			" (ánimo)\n",
+			" (reproche o ánimo)",
+			" (engaño)",
+			" (negación)",
+			" (queja)",
+			" (orden de ataque)",
+			" (saludo)",
+			" (llamada)",
+			" (solución)",
+			"!\n",
+			" (orden de silencio)",
+			" (despedida)",
+			" (apelación)",
+			" (lamento)",
+			" (alegría)",
+			" (contrariedad)",
+			" (sorpresa)",
+			" (desprecio)",
+			" (darse prisa)",
+			" (orden de avance al caballo)",
+			" (aprobación)",
+			" (asombro)",
+			":",
+			"E",
+			"e",
+			"è",
+			",",
+			"h",
+			"A",
+			"Z",
+			"H",
+			"D",
+			"T",
+			"G",
+			"S",
+			"M",
+			"L",
+			"P",
+			"R",
+			"C",
+			"\t",
+			" ",
+			", ",
+			"ADVER",
+			",",
+			"/su",
+			"/tu",
+			"/tus",
+			"/tu",
+			"/mi",
+			"pero",
+			", ",
+			"tener",
+			"partir",
+			"compra",
+			"comp",
+			"aceptar",
+			"abrazar",
+			"aceptar",
+			"archivo",
+			" ",
+			"logr",
+			"acep",
+			"M",
+			"N",
+			"B",
+			"V",
+			"C",
+			"Z",
+			"L",
+			"K",
+			"J",
+			"H",
+			"G",
+			"F",
+			"D",
+			"S",
+			"P",
+			"O"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ni",
+			"a",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

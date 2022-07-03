@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+	<script type="text/javascript" src = "jquery-1.12.1.js"></script>
+	<script type="text/javascript" src="String.js"></script>
+	<script type="text/javascript" src="functions.js"></script>
+	<script type="text/javascript" src="Angieos.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="Math.js"></script>
+	<style type="text/css">
+		div#raiz{
+			border-top: solid 1px black;
+			background-color: transparent;
+			width: 20px;
+
+		}
+		.Raiz1{
+			display: inline-flex;
+			color: black;
+		}
+	</style>
+	<title>OS A.N.G.I.E proyect</title>
+</head>
+<noscript>
+	<p>
+	Es necesario tener javaScript activado, porfavor activalo.
+	</p>
+</noscript>
+<body onload="printcal(document.getElementById('position'));">
+	<div 
+		hidden="hidden" 
+		id="position"></div>
+	<div hidden="hidden" id="SystemError"></div>
+	<div hidden="hidden" id="JsAdded"></div>
+	<div hidden="hidden" id="StyleControl"></div>
+	<header>
+		<div id="angieOs"><h3>A.N.G.I.E OS</div>
+	</header>
+	<div id='nav'>
+		<div class="Button" id="Home" onclick="Home(document.getElementById('position'));">Home</div>
+		<div class="Button" id="Music" onclick="Music(document.getElementById('position'));">Music</div>
+		<div class="Button" id="Documents" onclick="Documents(document.getElementById('position'));">Documents</div>
+		<div class="Button" id="Console" onclick="Console(document.getElementById('position'));">Console</div>
+		<div class="Button" id="Calculator" onclick="printcal(document.getElementById('position'));">Calculator</div>
+	</div>
+	<section>
+		<div id="content">
+			<p class="Raiz1">√</p><div id="raiz" class="Raiz1" >
+				12
+			</div>
+		</div>
+	</section>
+	<aside></aside>
+	<footer></footer>
+</body>
+</html>
